@@ -1,4 +1,4 @@
-This Python script logs into the Italian consulate's Prenot@Mi booking portal and checks for available national visa appointments (for stays over 90 days). If an appointment is available, it sends an email notification.
+This Python script logs into the Italian consulate's Prenotami (Prenot@Mi) booking portal and checks for available national visa appointments (for stays over 90 days). If an appointment is available, it sends an email notification.
 
 **Features:**
 
