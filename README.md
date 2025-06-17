@@ -43,7 +43,7 @@ Open the script file and fill in the following configuration variables near the 
 
 EMAIL_SENDER = "your_email@gmail.com"
 EMAIL_RECEIVER = "your_email@gmail.com" # or another email address
-EMAIL_PASSWORD = "your_gmail_app_password"
+EMAIL_PASSWORD = "your_gmail_app_password" # get an app password from google account settings
 
 PRENOTAMI_EMAIL = "your_prenotami_login_email"
 PRENOTAMI_PASSWORD = "your_prenotami_password"
